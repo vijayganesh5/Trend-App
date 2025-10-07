@@ -1,0 +1,28 @@
+# Create a clean .gitignore
+cat > .gitignore << 'EOF'
+# Terraform - EXCLUDE EVERYTHING
+terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform*
+*.pem
+*.key
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
+EOF
