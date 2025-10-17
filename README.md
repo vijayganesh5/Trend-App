@@ -190,6 +190,6 @@ echo "🎯 Mission complete! Infrastructure retired successfully!"
 
 **🎊 Congratulations!** You've just deployed a production-ready cloud-native application with enterprise-grade CI/CD! 
 
-*Built with ⚡ by Vijay Ganesh - Turning code into cloud magic, one deployment at a time!*
+*Built with ❤️ by Vijay Ganesh - Turning code into cloud magic, one deployment at a time!*
 
 **🌟 Remember**: Every great application starts with a single `git push`!!
