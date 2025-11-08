@@ -188,7 +188,14 @@ echo "🎯 Mission complete! Infrastructure retired successfully!"
 
 ---
 
-**🎊 Congratulations!** You've just deployed a production-ready cloud-native application with enterprise-grade CI/CD! 
+**🎊 Congratulations!** You've just deployed a production-ready cloud-native application with enterprise-grade CI/CD!!
+
+---
+
+## 🎉 Output Link with Screenshots:
+- https://docs.google.com/document/d/1o13VWWbkeeXOlzE6p-zUu6N2Y1lerwKUIAped-GA-x4/edit?usp=sharing
+
+---
 
 *Built with ❤️ by Vijay Ganesh - Turning code into cloud magic, one deployment at a time!*
 
